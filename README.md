@@ -7,9 +7,13 @@ Actualmente aprovechando el verano para profundizar en laboratorios prácticos, 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
-* **Redes:** Cisco CCNA (Routing & Switching), Packet Tracer, GNS3.
-* **Sistemas:** Administración de Linux y Windows Server.
-* **Ciberseguridad:** Hardening de sistemas, análisis de vulnerabilidades.
+
+  Cisco
+  Linux
+  Windows Server
+  Bash Scripting
+  Wireshark
+  Git
 
 ### 🎯 Objetivos Actuales
 * 🚀 Completar la certificación oficial **Cisco CCNA**.
