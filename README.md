@@ -8,12 +8,12 @@ Actualmente aprovechando el verano para profundizar en laboratorios prácticos, 
 
 ### 🛠️ Tecnologías y Herramientas
 
-  Cisco
-  Linux
-  Windows Server
-  Bash Scripting
-  Wireshark
-  Git
+  Cisco 
+  Linux 
+  Windows Server 
+  Bash Scripting 
+  Wireshark 
+  Git 
 
 ### 🎯 Objetivos Actuales
 * 🚀 Completar la certificación oficial **Cisco CCNA**.
