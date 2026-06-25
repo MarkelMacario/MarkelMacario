@@ -8,12 +8,7 @@ Actualmente aprovechando el verano para profundizar en laboratorios prácticos, 
 
 ### 🛠️ Tecnologías y Herramientas
 
-  Cisco 
-  Linux 
-  Windows Server 
-  Bash Scripting 
-  Wireshark 
-  Git 
+<img src="https://img.shields.io/badge/cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Windows%20Server-%230078D4.svg?style=for-the-badge&logo=windows-server&logoColor=white" /> <img src="https://img.shields.io/badge/GNU%20Bash-%234EAA25.svg?style=for-the-badge&logo=GNU%20Bash&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
 ### 🎯 Objetivos Actuales
 * 🚀 Completar la certificación oficial **Cisco CCNA**.
